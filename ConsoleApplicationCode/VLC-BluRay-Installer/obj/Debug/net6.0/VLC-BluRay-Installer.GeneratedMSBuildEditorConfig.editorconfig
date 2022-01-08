@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VLC_BluRay_Installer
-build_property.ProjectDir = D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\
+build_property.ProjectDir = D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationCode\VLC-BluRay-Installer\

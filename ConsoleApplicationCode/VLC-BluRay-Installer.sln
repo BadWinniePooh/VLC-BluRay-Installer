@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLC-BluRay-Installer", "VLC-BluRay-Installer\VLC-BluRay-Installer.csproj", "{CC321D20-5035-43BC-8753-3939EA1D8B83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VLC-BluRay-Installer", "VLC-BluRay-Installer\VLC-BluRay-Installer.csproj", "{CC321D20-5035-43BC-8753-3939EA1D8B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLC-BluRay-Installer-WFA", "..\WindowsFormsCode\VLC-BluRay-Installer-WFA\VLC-BluRay-Installer-WFA.csproj", "{232D79C4-9E70-439C-A855-A901A9C89849}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CC321D20-5035-43BC-8753-3939EA1D8B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC321D20-5035-43BC-8753-3939EA1D8B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC321D20-5035-43BC-8753-3939EA1D8B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232D79C4-9E70-439C-A855-A901A9C89849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232D79C4-9E70-439C-A855-A901A9C89849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232D79C4-9E70-439C-A855-A901A9C89849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232D79C4-9E70-439C-A855-A901A9C89849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

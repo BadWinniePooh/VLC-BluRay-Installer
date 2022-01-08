@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5VcwXtsuazf7+4BbZ6hP/ecG9ohuqayiZtPe64egdQFYGCWTFoimVYYGILb1K9/0KuZg64VeVKTk3uR5jwsesw==",
+  "dgSpecHash": "aXtdT1XkXfviYBWe9dFkvQMHHFo30MsPU1urh9NP9d/K8KX5ii5FBP0+dC78Vqc1SA8aIRBXegQ79xr5AxjjRA==",
   "success": true,
-  "projectFilePath": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\VLC-BluRay-Installer\\VLC-BluRay-Installer.csproj",
+  "projectFilePath": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\ConsoleApplicationCode\\VLC-BluRay-Installer\\VLC-BluRay-Installer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gglm1\\.nuget\\packages\\": {}
+    "C:\\Users\\gglm1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\VLC-BluRay-Installer\\VLC-BluRay-Installer.csproj",
+      "projectUniqueName": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\ConsoleApplicationCode\\VLC-BluRay-Installer\\VLC-BluRay-Installer.csproj",
       "projectName": "VLC-BluRay-Installer",
-      "projectPath": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\VLC-BluRay-Installer\\VLC-BluRay-Installer.csproj",
+      "projectPath": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\ConsoleApplicationCode\\VLC-BluRay-Installer\\VLC-BluRay-Installer.csproj",
       "packagesPath": "C:\\Users\\gglm1\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\VLC-BluRay-Installer\\obj\\",
+      "outputPath": "D:\\Program Files (x86)\\VisualStudio\\repos\\igus\\VLC-BluRay-Installer\\ConsoleApplicationCode\\VLC-BluRay-Installer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\gglm1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

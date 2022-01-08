@@ -1,0 +1,7 @@
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\WindowsFormsRelease\VLC-BluRay-Installer-WFA.exe
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\WindowsFormsRelease\Data\KEYDB.cfg
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\WindowsFormsRelease\Data\libaacs.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\WindowsFormsRelease\VLC-BluRay-Installer-WFA.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\WindowsFormsRelease\VLC-BluRay-Installer-WFA.deps.json
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\WindowsFormsRelease\VLC-BluRay-Installer-WFA.runtimeconfig.json
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\WindowsFormsRelease\VLC-BluRay-Installer-WFA.pdb
