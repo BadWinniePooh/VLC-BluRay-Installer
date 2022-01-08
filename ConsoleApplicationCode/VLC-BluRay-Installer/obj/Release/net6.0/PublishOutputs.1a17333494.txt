@@ -1,0 +1,7 @@
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationRelease\VLC-BluRay-Installer.exe
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationRelease\Data\KEYDB.cfg
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationRelease\Data\libaacs.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationRelease\VLC-BluRay-Installer.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationRelease\VLC-BluRay-Installer.deps.json
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationRelease\VLC-BluRay-Installer.runtimeconfig.json
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\ConsoleApplicationRelease\VLC-BluRay-Installer.pdb
