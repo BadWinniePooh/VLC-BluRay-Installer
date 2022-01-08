@@ -1,0 +1,7 @@
+C:\Users\gglm1\Desktop\Test\VLC-BluRay-Installer.exe
+C:\Users\gglm1\Desktop\Test\Data\KEYDB.cfg
+C:\Users\gglm1\Desktop\Test\Data\libaacs.dll
+C:\Users\gglm1\Desktop\Test\VLC-BluRay-Installer.dll
+C:\Users\gglm1\Desktop\Test\VLC-BluRay-Installer.deps.json
+C:\Users\gglm1\Desktop\Test\VLC-BluRay-Installer.runtimeconfig.json
+C:\Users\gglm1\Desktop\Test\VLC-BluRay-Installer.pdb

@@ -1,0 +1,17 @@
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\Data\KEYDB.cfg
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\Data\libaacs.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\VLC-BluRay-Installer.exe
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\VLC-BluRay-Installer.deps.json
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\VLC-BluRay-Installer.runtimeconfig.json
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\VLC-BluRay-Installer.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\ref\VLC-BluRay-Installer.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\bin\Release\net6.0\VLC-BluRay-Installer.pdb
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.csproj.AssemblyReference.cache
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.AssemblyInfoInputs.cache
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.AssemblyInfo.cs
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\ref\VLC-BluRay-Installer.dll
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.pdb
+D:\Program Files (x86)\VisualStudio\repos\igus\VLC-BluRay-Installer\VLC-BluRay-Installer\obj\Release\net6.0\VLC-BluRay-Installer.genruntimeconfig.cache
